@@ -1,5 +1,5 @@
 {
-  "name": "book-management-project",
+  "name": "assignment-1",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TarunRajput3201/Book-Management-Project.git"
+    "url": "git+https://github.com/TarunRajput3201/Assignment-1.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/TarunRajput3201/Book-Management-Project/issues"
+    "url": "https://github.com/TarunRajput3201/Assignment-1/issues"
   },
-  "homepage": "https://github.com/TarunRajput3201/Book-Management-Project#readme",
+  "homepage": "https://github.com/TarunRajput3201/Assignment-1#readme",
   "dependencies": {
     "aws-sdk": "^2.1174.0",
     "body-parser": "^1.20.0",
